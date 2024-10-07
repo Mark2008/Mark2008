@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++, algorithm, school things and so on
 - 💞️ I’m looking to collaborate on ..idk
 - 📫 How to reach me: scratch @Mark-2008
-- 😄 Pronouns: mark, molang
+- 😄 Pronouns: mark, molang, Jihoon Kang
 - ⚡ Fun fact: i was me and i will be me myself
 
 <!---
