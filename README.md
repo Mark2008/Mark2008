@@ -1,6 +1,2 @@
-?
-
-<!---
-Mark2008/Mark2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+아니 이거
+## 외 않 되
